@@ -17,7 +17,7 @@ checkPackages<-function(packages){
             install.packages(paquete)
             cat(paste0("Se instal\u00f3 ", paquete))
         }else{
-            cat(paste0(paquete," ya est\u00e1 instalado."), noBreaks. = 0)
+            cat(paste0(paquete," ya est\u00e1 instalado."))
         }
         library(paquete,character.only = T)
     }
