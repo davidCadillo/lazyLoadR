@@ -1,7 +1,7 @@
 Package: lazyLoadR
 Type: Package
 Title: Tools to check and install packages
-Version: 0.1.0
+Version: 0.1.2
 Author: person("David", "Cadillo" , "jcadillob@upao.edu.pe", role = c("aut", "cre"))
 URL: https://github.com/davidCadillo/lazyLoadR
 Maintainer: The package maintainer <cadillodavid@gmail.com>
